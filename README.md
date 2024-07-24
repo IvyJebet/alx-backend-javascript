@@ -1,10 +1,11 @@
 # alx-backend-javascript
-0x00. ES6 Basics
+# 0x00. ES6 Basics
+
 Welcome to the "0x00. ES6 Basics" project repository! This project focuses on exploring and implementing ES6 (ECMAScript 2015) features in JavaScript. You will delve into new concepts and syntax introduced by ES6, such as constants (const), block-scoped variables (let), arrow functions, default parameters, rest parameters, spread syntax, template literals, object property shorthand, iterators, and for...of loops.
-Concepts Covered
+# Concepts Covered
 JavaScript programming fundamentals
 Understanding and applying Software Linter (ESLint)
-Learning Objectives
+# Learning Objectives
 By the end of this project, you will be able to explain:
 
 What ES6 (ECMAScript 2015) entails and its significance
