@@ -37,7 +37,7 @@ This project focuses on writing unit tests for JavaScript applications, using po
 - Files: utils.js, 3-payment.js, 3-payment.test.js
 - Objective: Use Sinon Spies to track how functions are called during the test execution. Implement a test for the sendPaymentRequestToApi function.
 
-##Task 4: Stubs
+## Task 4: Stubs
 - Files: 4-payment.js, 4-payment.test.js
 - Objective: Use Sinon Stubs to simulate API calls or expensive functions for more controlled and faster tests.
 
